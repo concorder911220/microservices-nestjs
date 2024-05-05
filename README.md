@@ -14,7 +14,7 @@ This repository contains an example of building microservices using NestJS, Rabb
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/wardvisual/microservices-nestjs.git
+   git clone https://github.com/concorder911220/microservices-nestjs.git
    ```
 
 2. Install the dependencies
@@ -40,9 +40,3 @@ This is just an example, you can use this as a starting point to build your own 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
-## Contact
-
-Edward Fernandez: [Wardvisual](https://wardvisual.me/)
